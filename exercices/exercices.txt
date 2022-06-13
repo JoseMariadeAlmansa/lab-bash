@@ -1,0 +1,18 @@
+1.	 echo Hello World
+2.	 mkdir new_dir
+3.	 rmdir new_dir
+4.	 cp lorem/sed.txt lorem-copy
+5.	 cp lorem/at.txt lorem-copy ; cp lorem/lorem.txt 
+6.	 Cat lorem/sed.txt
+7.	 cat lorem/a.txt ; cat lorem/lorem.txt
+8.	 head -3 lorem-copy/sed.txt
+9.	 tail -3 lorem-copy/sed.txt
+10.	 echo Homo homini lupus. > lorem-copy/sed,txt
+11.	 tail-3 lorem-copy/sed.txt
+12.	 sed -i -r ‘set/et/ET’ lorem/at.txt
+	 cat lorem/at.txt
+13.	 whoami
+14.	 pwd
+15.	 git ls-files *.txt
+16.	Cat lorem/sed.txt | wc – l
+17.	wc -l */lorem.*
